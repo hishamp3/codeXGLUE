@@ -4,6 +4,7 @@ CodeXGLUE, a benchmark dataset to foster machine learning research for program u
 CodeXGLUE : https://arxiv.org/abs/2102.04664
 
 |             Defect Detection             |
+|:---------------------------------------: |
 | Test Accuracy | RoBERTa    | CodeBERT    |
 | :---:   | :---: | :---: |
 | CodeXGLUE | 61.05   | 62.08   |
